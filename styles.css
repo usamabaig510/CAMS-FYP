@@ -1,0 +1,103 @@
+styles.css 
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333333;
+
+            
+
+}
+/* yeh navbar ka background color hai */
+/* .navbar { */
+    /* background-color: #36454F; */
+    /* background-color: #004080; */
+    
+/* } */
+
+.navbar {
+    background-color: #084b91 !important;
+  }
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+
+
+
+/* is se dard shadow a rha tha  */
+/* .navbar-nav .nav-link:hover {
+    background-color: #36454F;
+    color: #fff;
+} */
+
+.navbar-nav .nav-link:hover {
+    text-decoration: underline; /* Add underline instead */
+}
+
+
+
+.container {
+    margin-top: 50px;
+}
+
+footer {
+    background-color: #084b91 !important;
+    color: #fff;
+    padding: 0px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+.btn-primary {
+    background-color: #084b91;
+    border-color: #084b91;
+}
+
+.btn-primary:hover {
+    background-color: #084b91;
+    border-color: #084b91;
+}
+
+.form-control {
+    border-radius: 0;
+}
+/* yeh font color hai  */
+h1, h2, h3, h4, h5 {
+    color: #000000;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+.btn-verify {
+    background-color: #272663; /* Bootstrap gray color */
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+       
