@@ -48,11 +48,13 @@ Run the project:
 http://localhost/your-project-folder
 
 👨‍💻 Author
+
 Usama Baig
 Final Year Student – Software Engineering / Computer Science
 
 
 ⭐ Contribution
+
 This project is for educational purposes, but contributions and suggestions are welcome!
 
 
