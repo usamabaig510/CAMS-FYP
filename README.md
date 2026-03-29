@@ -33,7 +33,7 @@ Provide a user-friendly interface for students and admins
 ⚙️ Installation & Setup
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/usamabaig510/CAMS-FYP.git
 
 Move project to htdocs (for XAMPP):
 
