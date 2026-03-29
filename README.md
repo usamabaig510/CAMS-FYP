@@ -45,7 +45,7 @@ Import the .sql file
 
 Run the project:
 
-http://localhost/your-project-folder
+http://localhost/project-folder
 
 👨‍💻 Author
 
